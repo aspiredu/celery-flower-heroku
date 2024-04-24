@@ -24,7 +24,7 @@ click-repl==0.3.0
     # via celery
 flower @ git+https://github.com/aspiredu/flower.git@master
     # via -r requirements.in
-humanize==0.5.1
+humanize==4.9.0
     # via flower
 kombu==5.3.7
     # via celery
